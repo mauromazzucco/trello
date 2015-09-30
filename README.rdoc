@@ -14,5 +14,4 @@ A trello-like todo list made with ruby on rails using the following gems:
 
 
 
-This application was made for learing purposes You can find the live version here: sheltered-crag-3123.herokuapp.com/
-<tt>rake doc:app</tt>.
+This application was made for learing purposes You can find the live version here: sheltered-crag-3123.herokuapp.com
