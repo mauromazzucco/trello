@@ -1,9 +1,18 @@
+== README
+
 A trello-like todo list made with ruby on rails using the following gems:
 
-gem 'twitter-bootstrap-rails'
-gem 'font-awesome-rails'
-gem 'simple_form'
-gem 'devise'
 
-This application was made for learing purposes
-You can find the live version here: http://sheltered-crag-3123.herokuapp.com/
+* gem 'twitter-bootstrap-rails'
+
+* gem 'font-awesome-rails'
+
+* gem 'simple_form'
+
+* gem 'devise'
+
+
+
+
+This application was made for learing purposes You can find the live version here: sheltered-crag-3123.herokuapp.com/
+<tt>rake doc:app</tt>.
